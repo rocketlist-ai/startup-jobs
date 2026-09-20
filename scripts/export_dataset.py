@@ -10,7 +10,9 @@ import hashlib
 import io
 import json
 import os
+import re
 import time
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -119,6 +121,11 @@ def clean_list(value: Any) -> list[str]:
 def stable_id(*values: Any) -> str:
     material = "\x1f".join(clean_text(value) or "" for value in values).lower()
     return "rl_" + hashlib.sha256(material.encode()).hexdigest()[:24]
+
+
+def name_key(value: Any) -> str:
+    text = unicodedata.normalize("NFKD", clean_text(value) or "").encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "", text)
 
 
 def api_page(
@@ -321,14 +328,27 @@ def main() -> None:
     )
     raw_companies, source_companies_total = fetch_table(args.api, "companies", COMPANY_SOURCE_FIELDS)
 
+    normalized_companies = [normalize_company(row) for row in raw_companies]
+    all_company_ids = {company["id"] for company in normalized_companies}
+    companies_by_name: dict[str, list[str]] = {}
+    for company in normalized_companies:
+        companies_by_name.setdefault(name_key(company["name"]), []).append(company["id"])
+
     jobs = deduplicate(
         normalize_job(row) for row in raw_jobs
         if row.get("is_active") is True and row.get("is_duplicate") is not True
     )
+    repaired_company_references = 0
+    for job in jobs:
+        if job["company_id"] and job["company_id"] not in all_company_ids:
+            candidates = companies_by_name.get(name_key(job["company_name"]), [])
+            if len(candidates) == 1:
+                job["company_id"] = candidates[0]
+                repaired_company_references += 1
     referenced_company_ids = {job["company_id"] for job in jobs if job["company_id"]}
     companies = deduplicate(
-        normalize_company(row) for row in raw_companies
-        if row.get("is_active") is True or clean_text(row.get("id")) in referenced_company_ids
+        company for company in normalized_companies
+        if company["active"] is True or company["id"] in referenced_company_ids
     )
 
     write_jsonl_gz(args.output / "jobs.jsonl.gz", jobs)
@@ -361,6 +381,9 @@ def main() -> None:
         "field_coverage": {
             "jobs": coverage(jobs, ["company_id", "title", "url", "country", "category", "seniority", "date_posted", "salary_min", "required_skills"]),
             "companies": coverage(companies, ["name", "website", "stage", "investors", "hq_country", "total_raised_usd"]),
+        },
+        "data_quality": {
+            "repaired_job_company_references": repaired_company_references,
         },
     }
     write_json(args.stats, stats)

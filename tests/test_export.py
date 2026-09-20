@@ -49,3 +49,7 @@ def test_deduplicate_fails_closed():
     else:
         raise AssertionError("expected duplicate normalization failure")
 
+
+def test_name_key_reconciles_spacing_and_case():
+    assert export_dataset.name_key("HackTheBox") == export_dataset.name_key("Hack The Box")
+    assert export_dataset.name_key("Rad AI") == export_dataset.name_key("Radai")

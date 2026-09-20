@@ -59,7 +59,17 @@ The exporter uses an explicit allowlist and the audit fails if a forbidden field
 
 ## Use it with agents
 
-For bulk analysis, give Claude, Cursor, Codex, or another agent the Parquet URL and the relevant schema. For live, conversational search rather than bulk download, connect the RocketList MCP:
+Install the user-facing RocketList skill in Claude Code, Codex, Cursor, or another compatible agent:
+
+```bash
+npx skills add rocketlist-ai/startup-jobs --skill rocketlist-job-search
+```
+
+It searches and filters the current snapshot, handles CV-to-role matching, and links users directly to applications. The bundle is also readable at [`skills/rocketlist-job-search`](skills/rocketlist-job-search), so any agent can follow it without an installer.
+
+The accompanying [distribution loop](DISTRIBUTION.md) explains how the dataset, skill, search pages, and recurring data stories compound into discoverability and traffic.
+
+For bulk analysis, give an agent the Parquet URL and the relevant schema. For lower-latency conversational search, connect the RocketList MCP when available:
 
 ```text
 https://rocketlist.ai/mcp
@@ -99,4 +109,3 @@ The dataset is available under [ODC-BY 1.0](DATA_LICENSE.md); code is MIT licens
 ## Corrections
 
 Open an issue for a missing company, stale role, broken URL, or schema problem. See [CONTRIBUTING.md](CONTRIBUTING.md) for the data-safety rules.
-

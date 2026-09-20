@@ -1,0 +1,5 @@
+interface:
+  display_name: "RocketList Startup Jobs"
+  short_description: "Search and analyze 98,000+ current startup jobs"
+  default_prompt: "Find the strongest current startup jobs for me using RocketList, explain the fit and gaps, and link directly to each application."
+

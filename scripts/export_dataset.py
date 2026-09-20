@@ -121,13 +121,21 @@ def stable_id(*values: Any) -> str:
     return "rl_" + hashlib.sha256(material.encode()).hexdigest()[:24]
 
 
-def api_page(api: str, table: str, fields: str, offset: int) -> tuple[list[dict[str, Any]], int | None]:
-    query = urllib.parse.urlencode({
+def api_page(
+    api: str,
+    table: str,
+    fields: str,
+    offset: int,
+    filters: dict[str, str] | None = None,
+) -> tuple[list[dict[str, Any]], int | None]:
+    parameters = {
         "select": fields,
         "order": "id.asc",
         "limit": PAGE_SIZE,
         "offset": offset,
-    })
+    }
+    parameters.update(filters or {})
+    query = urllib.parse.urlencode(parameters)
     request = urllib.request.Request(
         f"{api.rstrip('/')}/{table}?{query}",
         headers={"Accept": "application/json", "Prefer": "count=exact", "User-Agent": USER_AGENT},
@@ -146,11 +154,16 @@ def api_page(api: str, table: str, fields: str, offset: int) -> tuple[list[dict[
     raise RuntimeError("unreachable")
 
 
-def fetch_table(api: str, table: str, fields: str) -> tuple[list[dict[str, Any]], int | None]:
+def fetch_table(
+    api: str,
+    table: str,
+    fields: str,
+    filters: dict[str, str] | None = None,
+) -> tuple[list[dict[str, Any]], int | None]:
     rows: list[dict[str, Any]] = []
     expected_total: int | None = None
     while True:
-        page, total = api_page(api, table, fields, len(rows))
+        page, total = api_page(api, table, fields, len(rows), filters)
         if expected_total is None:
             expected_total = total
         rows.extend(page)
@@ -300,7 +313,12 @@ def main() -> None:
     args.samples.mkdir(parents=True, exist_ok=True)
     generated_at = utc_now()
 
-    raw_jobs, source_jobs_total = fetch_table(args.api, "jobs", JOB_SOURCE_FIELDS)
+    raw_jobs, source_jobs_total = fetch_table(
+        args.api,
+        "jobs",
+        JOB_SOURCE_FIELDS,
+        {"is_active": "eq.true", "or": "(is_duplicate.is.null,is_duplicate.eq.false)"},
+    )
     raw_companies, source_companies_total = fetch_table(args.api, "companies", COMPANY_SOURCE_FIELDS)
 
     jobs = deduplicate(

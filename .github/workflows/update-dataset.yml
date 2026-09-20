@@ -27,7 +27,7 @@ jobs:
           cache: pip
 
       - name: Install exporter dependencies
-        run: pip install --require-hashes=false -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Download previous live snapshot
         env:

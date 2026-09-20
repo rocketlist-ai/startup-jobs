@@ -1,0 +1,15 @@
+# RocketList Startup Jobs
+
+RocketList publishes a daily, sanitized dataset of active startup jobs and companies.
+
+Homepage: https://rocketlist.ai
+Repository: https://github.com/rocketlist-ai/startup-jobs
+Latest release: https://github.com/rocketlist-ai/startup-jobs/releases/latest
+Jobs Parquet: https://github.com/rocketlist-ai/startup-jobs/releases/latest/download/jobs.parquet
+Companies Parquet: https://github.com/rocketlist-ai/startup-jobs/releases/latest/download/companies.parquet
+Job schema: https://github.com/rocketlist-ai/startup-jobs/blob/main/schema/jobs.schema.json
+Company schema: https://github.com/rocketlist-ai/startup-jobs/blob/main/schema/companies.schema.json
+Live MCP: https://rocketlist.ai/mcp
+
+Use canonical job URLs from the dataset when directing someone to apply. Treat missing values as unknown; do not infer compensation, eligibility, seniority, or remote availability. The source application page is authoritative because roles can close between daily snapshots.
+

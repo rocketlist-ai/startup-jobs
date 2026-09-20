@@ -1,0 +1,77 @@
+name: Update public dataset
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-dataset-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install exporter dependencies
+        run: pip install --require-hashes=false -r requirements.txt
+
+      - name: Download previous live snapshot
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p previous
+          gh release download latest --pattern jobs.jsonl.gz --dir previous || true
+
+      - name: Export current public snapshot
+        run: python scripts/export_dataset.py
+
+      - name: Audit complete snapshot
+        run: python scripts/audit_dataset.py
+
+      - name: Refresh README statistics
+        run: python scripts/update_readme.py
+
+      - name: Generate daily change summary
+        run: |
+          if [ -f previous/jobs.jsonl.gz ]; then
+            python scripts/diff_dataset.py --current dist/jobs.jsonl.gz --previous previous/jobs.jsonl.gz
+          else
+            python scripts/diff_dataset.py --current dist/jobs.jsonl.gz
+          fi
+
+      - name: Commit small public artifacts
+        run: |
+          git config user.name "rocketlist-data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add README.md stats/latest.json sample changes
+          if ! git diff --cached --quiet; then
+            git commit -m "data: refresh public snapshot"
+            git push origin HEAD:main
+          fi
+
+      - name: Publish full snapshot to stable release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git tag --force latest HEAD
+          git push --force origin refs/tags/latest
+          if gh release view latest >/dev/null 2>&1; then
+            gh release upload latest dist/* --clobber
+            gh release edit latest --title "Latest RocketList dataset" --notes-file RELEASE_NOTES.md --latest
+          else
+            gh release create latest dist/* --title "Latest RocketList dataset" --notes-file RELEASE_NOTES.md --latest
+          fi

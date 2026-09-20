@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/rocketlist-ai/startup-jobs/blob/main/schema/companies.schema.json",
+  "title": "RocketList public company",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "active"],
+  "properties": {
+    "id": {"type": "string"},
+    "slug": {"type": ["string", "null"]},
+    "name": {"type": ["string", "null"]},
+    "website": {"type": ["string", "null"]},
+    "tagline": {"type": ["string", "null"]},
+    "industry": {"type": ["string", "null"]},
+    "vertical": {"type": ["string", "null"]},
+    "subvertical": {"type": ["string", "null"]},
+    "stage": {"type": ["string", "null"]},
+    "total_raised_usd": {"type": ["number", "null"]},
+    "founded_year": {"type": ["number", "null"]},
+    "employee_count": {"type": ["number", "null"]},
+    "size": {"type": ["string", "null"]},
+    "hq_city": {"type": ["string", "null"]},
+    "hq_country": {"type": ["string", "null"]},
+    "location": {"type": ["string", "null"]},
+    "investors": {"type": "array", "items": {"type": "string"}},
+    "careers_url": {"type": ["string", "null"]},
+    "logo_url": {"type": ["string", "null"]},
+    "active": {"type": "boolean"},
+    "first_seen": {"type": ["string", "null"]},
+    "last_seen": {"type": ["string", "null"]}
+  }
+}
+

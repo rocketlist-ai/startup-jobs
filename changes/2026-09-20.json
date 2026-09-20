@@ -1,92 +1,11 @@
 {
-  "baseline": true,
-  "companies_with_added_jobs": 4841,
+  "baseline": false,
+  "companies_with_added_jobs": 0,
   "companies_with_removed_jobs": 0,
   "date": "2026-09-20",
-  "jobs_added": 98336,
+  "jobs_added": 0,
   "jobs_removed": 0,
   "jobs_total": 98336,
-  "top_companies_adding_jobs": [
-    {
-      "company": "Anduril Industries",
-      "jobs": 2004
-    },
-    {
-      "company": "SpaceX",
-      "jobs": 1825
-    },
-    {
-      "company": "Pulse",
-      "jobs": 1339
-    },
-    {
-      "company": "Stripe",
-      "jobs": 904
-    },
-    {
-      "company": "LifeStance Health",
-      "jobs": 747
-    },
-    {
-      "company": "OpenAI",
-      "jobs": 727
-    },
-    {
-      "company": "Wise",
-      "jobs": 719
-    },
-    {
-      "company": "Gopuff",
-      "jobs": 719
-    },
-    {
-      "company": "HelloFresh",
-      "jobs": 696
-    },
-    {
-      "company": "Databricks",
-      "jobs": 662
-    },
-    {
-      "company": "Anthropic",
-      "jobs": 579
-    },
-    {
-      "company": "Airwallex",
-      "jobs": 522
-    },
-    {
-      "company": "Axon",
-      "jobs": 497
-    },
-    {
-      "company": "Rocket Lab",
-      "jobs": 496
-    },
-    {
-      "company": "Nebius",
-      "jobs": 474
-    },
-    {
-      "company": "Assembly",
-      "jobs": 458
-    },
-    {
-      "company": "Shield AI",
-      "jobs": 457
-    },
-    {
-      "company": "Agency",
-      "jobs": 420
-    },
-    {
-      "company": "CoreWeave",
-      "jobs": 404
-    },
-    {
-      "company": "Cloudflare",
-      "jobs": 329
-    }
-  ],
+  "top_companies_adding_jobs": [],
   "top_companies_removing_jobs": []
 }

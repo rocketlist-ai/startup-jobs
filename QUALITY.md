@@ -37,4 +37,4 @@ python scripts/export_dataset.py
 python scripts/audit_dataset.py
 ```
 
-Verify a downloaded release against `checksums.sha256` before using it in a production pipeline.
+Verify a downloaded release against `checksums.txt` before using it in a production pipeline.

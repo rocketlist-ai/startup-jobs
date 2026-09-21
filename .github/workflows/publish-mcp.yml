@@ -1,0 +1,40 @@
+name: Publish MCP Registry metadata
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - server.json
+      - .github/workflows/publish-mcp.yml
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Install MCP publisher
+        shell: bash
+        run: |
+          curl -fsSL "https://github.com/modelcontextprotocol/registry/releases/latest/download/mcp-publisher_linux_amd64.tar.gz" \
+            | tar xz mcp-publisher
+
+      - name: Validate registry manifest
+        run: ./mcp-publisher validate server.json
+
+      - name: Authenticate RocketList domain
+        env:
+          MCP_PRIVATE_KEY: ${{ secrets.MCP_REGISTRY_PRIVATE_KEY }}
+        run: ./mcp-publisher login http --domain rocketlist.ai --private-key "$MCP_PRIVATE_KEY"
+
+      - name: Publish RocketList MCP
+        run: ./mcp-publisher publish server.json
+
+      - name: Verify official registry record
+        run: |
+          curl -fsSL 'https://registry.modelcontextprotocol.io/v0.1/servers?search=ai.rocketlist%2Frocketlist' \
+            | jq -e '.servers | any(.server.name == "ai.rocketlist/rocketlist")'

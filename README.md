@@ -45,7 +45,7 @@ print(berlin_ai[["company_name", "title", "url"]].head(20))
 
 The jobs dataset contains factual discovery metadata: company, title, normalized role and seniority, location, compensation when explicitly available, skills, canonical application URL, source platform, and first/last-seen timestamps. The companies dataset adds stage, funding, investors, industry, headquarters, and careers URLs where available.
 
-Schemas are versioned in [`schema/jobs.schema.json`](schema/jobs.schema.json) and [`schema/companies.schema.json`](schema/companies.schema.json). A browsable 100-record sample is committed under [`sample/`](sample/), while daily aggregate changes live under [`changes/`](changes/).
+Schemas are versioned in [`schema/jobs.schema.json`](schema/jobs.schema.json) and [`schema/companies.schema.json`](schema/companies.schema.json). A browsable 100-record sample is committed under [`sample/`](sample/), while daily aggregate changes live under [`changes/`](changes/). See the public [methodology](METHODOLOGY.md) and [quality checks](QUALITY.md) for provenance, denominators, audit guarantees, and limitations.
 
 ## What is deliberately excluded
 
@@ -74,6 +74,8 @@ For bulk analysis, give an agent the Parquet URL and the relevant schema. For lo
 ```text
 https://rocketlist.ai/mcp
 ```
+
+Its official MCP Registry manifest is versioned in [`server.json`](server.json).
 
 Example prompt:
 

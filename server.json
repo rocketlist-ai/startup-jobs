@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.rocketlist/rocketlist",
+  "title": "RocketList",
+  "description": "Search current startup jobs and hiring companies through RocketList's public read-only data.",
+  "repository": {
+    "url": "https://github.com/rocketlist-ai/startup-jobs",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://rocketlist.ai/open-data",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://rocketlist.ai/mcp"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 2075,
+  "companies_with_removed_jobs": 1768,
+  "date": "2026-09-26",
+  "jobs_added": 9623,
+  "jobs_removed": 6267,
+  "jobs_total": 101692,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 230
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 170
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 128
+    },
+    {
+      "company": "One Medical",
+      "jobs": 116
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 95
+    },
+    {
+      "company": "Wise",
+      "jobs": 91
+    },
+    {
+      "company": "Stripe",
+      "jobs": 80
+    },
+    {
+      "company": "HelloFresh",
+      "jobs": 71
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 71
+    },
+    {
+      "company": "Astranis",
+      "jobs": 70
+    },
+    {
+      "company": "Distro",
+      "jobs": 69
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 68
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 63
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 55
+    },
+    {
+      "company": "CesiumAstro",
+      "jobs": 52
+    },
+    {
+      "company": "Axon",
+      "jobs": 51
+    },
+    {
+      "company": "Writer",
+      "jobs": 49
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 48
+    },
+    {
+      "company": "Cloudflare",
+      "jobs": 46
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 45
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 175
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 72
+    },
+    {
+      "company": "Axon",
+      "jobs": 70
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 69
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 54
+    },
+    {
+      "company": "ComparaJ\u00e1.pt",
+      "jobs": 52
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 44
+    },
+    {
+      "company": "Wise",
+      "jobs": 38
+    },
+    {
+      "company": "Paytm",
+      "jobs": 38
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 37
+    },
+    {
+      "company": "AlphaSense, Inc.",
+      "jobs": 33
+    },
+    {
+      "company": "Wolt",
+      "jobs": 33
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 32
+    },
+    {
+      "company": "Crusoe",
+      "jobs": 30
+    },
+    {
+      "company": "GitLab",
+      "jobs": 29
+    },
+    {
+      "company": "Writer",
+      "jobs": 29
+    },
+    {
+      "company": "Toast",
+      "jobs": 29
+    },
+    {
+      "company": "Natera",
+      "jobs": 27
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 27
+    },
+    {
+      "company": "Varda",
+      "jobs": 26
+    }
+  ]
+}

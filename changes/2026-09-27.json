@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 108,
+  "companies_with_removed_jobs": 373,
+  "date": "2026-09-27",
+  "jobs_added": 247,
+  "jobs_removed": 676,
+  "jobs_total": 101263,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Quantinuum",
+      "jobs": 18
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 16
+    },
+    {
+      "company": "Lokal",
+      "jobs": 14
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 10
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 6
+    },
+    {
+      "company": "Everseen",
+      "jobs": 6
+    },
+    {
+      "company": "Reco",
+      "jobs": 6
+    },
+    {
+      "company": "Scopely",
+      "jobs": 6
+    },
+    {
+      "company": "Amorana",
+      "jobs": 6
+    },
+    {
+      "company": "Datadog",
+      "jobs": 5
+    },
+    {
+      "company": "CloudFactory",
+      "jobs": 5
+    },
+    {
+      "company": "Atlys",
+      "jobs": 5
+    },
+    {
+      "company": "Pindrop Security",
+      "jobs": 5
+    },
+    {
+      "company": "Neko Health",
+      "jobs": 4
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 4
+    },
+    {
+      "company": "Fireblocks",
+      "jobs": 4
+    },
+    {
+      "company": "Varda",
+      "jobs": 4
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 4
+    },
+    {
+      "company": "GitLab",
+      "jobs": 3
+    },
+    {
+      "company": "Capital Factory",
+      "jobs": 3
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "One Medical",
+      "jobs": 34
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 32
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 25
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 19
+    },
+    {
+      "company": "Atomicwork",
+      "jobs": 14
+    },
+    {
+      "company": "Fireblocks",
+      "jobs": 14
+    },
+    {
+      "company": "Amorana",
+      "jobs": 10
+    },
+    {
+      "company": "Everseen",
+      "jobs": 9
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 8
+    },
+    {
+      "company": "Distro",
+      "jobs": 7
+    },
+    {
+      "company": "Veeam Software",
+      "jobs": 6
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 6
+    },
+    {
+      "company": "DeepL",
+      "jobs": 6
+    },
+    {
+      "company": "Atlys",
+      "jobs": 5
+    },
+    {
+      "company": "Cogent Talent Solutions",
+      "jobs": 5
+    },
+    {
+      "company": "Bunq",
+      "jobs": 5
+    },
+    {
+      "company": "Oklo",
+      "jobs": 4
+    },
+    {
+      "company": "Airbnb",
+      "jobs": 4
+    },
+    {
+      "company": "Natera",
+      "jobs": 4
+    },
+    {
+      "company": "Axon",
+      "jobs": 4
+    }
+  ]
+}

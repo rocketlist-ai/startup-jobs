@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 96,
+  "companies_with_removed_jobs": 433,
+  "date": "2026-09-28",
+  "jobs_added": 242,
+  "jobs_removed": 727,
+  "jobs_total": 100778,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Pinterest",
+      "jobs": 32
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 18
+    },
+    {
+      "company": "Fireblocks",
+      "jobs": 13
+    },
+    {
+      "company": "Amorana",
+      "jobs": 10
+    },
+    {
+      "company": "Everseen",
+      "jobs": 9
+    },
+    {
+      "company": "Deblock",
+      "jobs": 6
+    },
+    {
+      "company": "Atlys",
+      "jobs": 5
+    },
+    {
+      "company": "Nu+company",
+      "jobs": 5
+    },
+    {
+      "company": "Mateo",
+      "jobs": 5
+    },
+    {
+      "company": "CSC Generation",
+      "jobs": 5
+    },
+    {
+      "company": "Hokali",
+      "jobs": 4
+    },
+    {
+      "company": "Metaview",
+      "jobs": 4
+    },
+    {
+      "company": "Fuse Energy",
+      "jobs": 4
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 4
+    },
+    {
+      "company": "Callsign",
+      "jobs": 4
+    },
+    {
+      "company": "Monday.com",
+      "jobs": 3
+    },
+    {
+      "company": "Datadog",
+      "jobs": 3
+    },
+    {
+      "company": "Tulip",
+      "jobs": 3
+    },
+    {
+      "company": "Halo Industries",
+      "jobs": 3
+    },
+    {
+      "company": "Reco",
+      "jobs": 3
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Pinterest",
+      "jobs": 24
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 23
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 21
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 10
+    },
+    {
+      "company": "Atomicwork",
+      "jobs": 9
+    },
+    {
+      "company": "Distro",
+      "jobs": 8
+    },
+    {
+      "company": "Lightspeed Commerce, Inc.",
+      "jobs": 7
+    },
+    {
+      "company": "Cogent Talent Solutions",
+      "jobs": 7
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 6
+    },
+    {
+      "company": "Asana",
+      "jobs": 6
+    },
+    {
+      "company": "Atlys",
+      "jobs": 6
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 6
+    },
+    {
+      "company": "Cloudflare",
+      "jobs": 6
+    },
+    {
+      "company": "Axon",
+      "jobs": 6
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 6
+    },
+    {
+      "company": "Strive Health",
+      "jobs": 5
+    },
+    {
+      "company": "Oddin",
+      "jobs": 5
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 5
+    },
+    {
+      "company": "Hut 8",
+      "jobs": 5
+    },
+    {
+      "company": "CSC Generation",
+      "jobs": 5
+    }
+  ]
+}

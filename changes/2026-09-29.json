@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 785,
+  "companies_with_removed_jobs": 552,
+  "date": "2026-09-29",
+  "jobs_added": 1942,
+  "jobs_removed": 1179,
+  "jobs_total": 101541,
+  "top_companies_adding_jobs": [
+    {
+      "company": "LifeStance Health",
+      "jobs": 49
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 41
+    },
+    {
+      "company": "One Medical",
+      "jobs": 25
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 25
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 21
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 21
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 20
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 19
+    },
+    {
+      "company": "Wise",
+      "jobs": 18
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 18
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 18
+    },
+    {
+      "company": "Finni Health",
+      "jobs": 17
+    },
+    {
+      "company": "Distro",
+      "jobs": 16
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 16
+    },
+    {
+      "company": "eCapital Entrepreneurial Partners",
+      "jobs": 15
+    },
+    {
+      "company": "Barkbus",
+      "jobs": 14
+    },
+    {
+      "company": "HelloFresh",
+      "jobs": 14
+    },
+    {
+      "company": "Whop",
+      "jobs": 13
+    },
+    {
+      "company": "Crusoe",
+      "jobs": 13
+    },
+    {
+      "company": "Cloudflare",
+      "jobs": 13
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "HelloFresh",
+      "jobs": 217
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 25
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 16
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 16
+    },
+    {
+      "company": "Amplitude",
+      "jobs": 15
+    },
+    {
+      "company": "eCapital Entrepreneurial Partners",
+      "jobs": 14
+    },
+    {
+      "company": "Feld Entertainment",
+      "jobs": 13
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 11
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 9
+    },
+    {
+      "company": "Amorana",
+      "jobs": 9
+    },
+    {
+      "company": "Datadog",
+      "jobs": 8
+    },
+    {
+      "company": "Wise",
+      "jobs": 8
+    },
+    {
+      "company": "Grafana Labs",
+      "jobs": 8
+    },
+    {
+      "company": "Dropbox",
+      "jobs": 6
+    },
+    {
+      "company": "Distro",
+      "jobs": 6
+    },
+    {
+      "company": "Toast",
+      "jobs": 6
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 6
+    },
+    {
+      "company": "Saronic",
+      "jobs": 6
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 6
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 6
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 810,
+  "companies_with_removed_jobs": 734,
+  "date": "2026-09-30",
+  "jobs_added": 2116,
+  "jobs_removed": 1396,
+  "jobs_total": 102261,
+  "top_companies_adding_jobs": [
+    {
+      "company": "LifeStance Health",
+      "jobs": 77
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 69
+    },
+    {
+      "company": "One Medical",
+      "jobs": 40
+    },
+    {
+      "company": "Formlabs",
+      "jobs": 34
+    },
+    {
+      "company": "Wise",
+      "jobs": 32
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 31
+    },
+    {
+      "company": "Jerry.ai",
+      "jobs": 29
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 25
+    },
+    {
+      "company": "Praxisprecisionmedicines",
+      "jobs": 19
+    },
+    {
+      "company": "Stripe",
+      "jobs": 17
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 17
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 16
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 15
+    },
+    {
+      "company": "Okta",
+      "jobs": 14
+    },
+    {
+      "company": "Toast",
+      "jobs": 14
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 11
+    },
+    {
+      "company": "CesiumAstro",
+      "jobs": 11
+    },
+    {
+      "company": "HelloFresh",
+      "jobs": 10
+    },
+    {
+      "company": "Distro",
+      "jobs": 10
+    },
+    {
+      "company": "Elastic",
+      "jobs": 10
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 31
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 27
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 25
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 18
+    },
+    {
+      "company": "HelloFresh",
+      "jobs": 16
+    },
+    {
+      "company": "Amorana",
+      "jobs": 14
+    },
+    {
+      "company": "Amplitude",
+      "jobs": 13
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 12
+    },
+    {
+      "company": "Distro",
+      "jobs": 12
+    },
+    {
+      "company": "Grafana Labs",
+      "jobs": 11
+    },
+    {
+      "company": "Wise",
+      "jobs": 10
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 10
+    },
+    {
+      "company": "Feld Entertainment",
+      "jobs": 10
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 10
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 9
+    },
+    {
+      "company": "Veeam Software",
+      "jobs": 9
+    },
+    {
+      "company": "Toast",
+      "jobs": 9
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 8
+    },
+    {
+      "company": "Fireblocks",
+      "jobs": 8
+    },
+    {
+      "company": "Cogent Talent Solutions",
+      "jobs": 8
+    }
+  ]
+}

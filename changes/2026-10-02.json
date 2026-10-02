@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 1227,
+  "companies_with_removed_jobs": 1159,
+  "date": "2026-10-02",
+  "jobs_added": 3994,
+  "jobs_removed": 2939,
+  "jobs_total": 103316,
+  "top_companies_adding_jobs": [
+    {
+      "company": "LifeStance Health",
+      "jobs": 186
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 103
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 57
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 48
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 38
+    },
+    {
+      "company": "Wise",
+      "jobs": 38
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 36
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 32
+    },
+    {
+      "company": "Okta",
+      "jobs": 32
+    },
+    {
+      "company": "HelloFresh",
+      "jobs": 31
+    },
+    {
+      "company": "Hex",
+      "jobs": 30
+    },
+    {
+      "company": "One Medical",
+      "jobs": 30
+    },
+    {
+      "company": "Lendbuzz",
+      "jobs": 29
+    },
+    {
+      "company": "Distro",
+      "jobs": 28
+    },
+    {
+      "company": "Varda",
+      "jobs": 27
+    },
+    {
+      "company": "Atomicwork",
+      "jobs": 27
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 22
+    },
+    {
+      "company": "Harvey",
+      "jobs": 22
+    },
+    {
+      "company": "Stripe",
+      "jobs": 21
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 21
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "LifeStance Health",
+      "jobs": 90
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 65
+    },
+    {
+      "company": "Distro",
+      "jobs": 34
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 34
+    },
+    {
+      "company": "Wing Assistant",
+      "jobs": 27
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 26
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 24
+    },
+    {
+      "company": "LinkedIn",
+      "jobs": 24
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 23
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 20
+    },
+    {
+      "company": "Axon",
+      "jobs": 19
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 18
+    },
+    {
+      "company": "Toast",
+      "jobs": 17
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 17
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 17
+    },
+    {
+      "company": "Airbnb",
+      "jobs": 16
+    },
+    {
+      "company": "Octopus Energy",
+      "jobs": 16
+    },
+    {
+      "company": "Dun &amp; Bradstreet",
+      "jobs": 15
+    },
+    {
+      "company": "Natera",
+      "jobs": 14
+    },
+    {
+      "company": "Varda",
+      "jobs": 14
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 760,
+  "companies_with_removed_jobs": 732,
+  "date": "2026-10-03",
+  "jobs_added": 1865,
+  "jobs_removed": 1609,
+  "jobs_total": 103572,
+  "top_companies_adding_jobs": [
+    {
+      "company": "One Medical",
+      "jobs": 51
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 45
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 26
+    },
+    {
+      "company": "Wise",
+      "jobs": 26
+    },
+    {
+      "company": "Harvey",
+      "jobs": 21
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 20
+    },
+    {
+      "company": "Formlabs",
+      "jobs": 19
+    },
+    {
+      "company": "Databricks",
+      "jobs": 18
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 17
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 16
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 13
+    },
+    {
+      "company": "GitLab",
+      "jobs": 12
+    },
+    {
+      "company": "Baselayer",
+      "jobs": 12
+    },
+    {
+      "company": "Toast",
+      "jobs": 12
+    },
+    {
+      "company": "Natera",
+      "jobs": 12
+    },
+    {
+      "company": "Neko Health",
+      "jobs": 11
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 11
+    },
+    {
+      "company": "Directive",
+      "jobs": 10
+    },
+    {
+      "company": "Adyen",
+      "jobs": 10
+    },
+    {
+      "company": "Stripe",
+      "jobs": 10
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "LifeStance Health",
+      "jobs": 53
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 48
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 43
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 23
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 20
+    },
+    {
+      "company": "Hightouch",
+      "jobs": 20
+    },
+    {
+      "company": "Wise",
+      "jobs": 17
+    },
+    {
+      "company": "Axon",
+      "jobs": 15
+    },
+    {
+      "company": "LinkedIn",
+      "jobs": 14
+    },
+    {
+      "company": "Distro",
+      "jobs": 12
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 12
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 12
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 11
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 11
+    },
+    {
+      "company": "Twilio",
+      "jobs": 9
+    },
+    {
+      "company": "Toast",
+      "jobs": 9
+    },
+    {
+      "company": "Wolt",
+      "jobs": 9
+    },
+    {
+      "company": "OpenTable",
+      "jobs": 9
+    },
+    {
+      "company": "Nox Metals",
+      "jobs": 9
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 9
+    }
+  ]
+}

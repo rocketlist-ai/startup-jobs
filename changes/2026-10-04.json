@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 111,
+  "companies_with_removed_jobs": 551,
+  "date": "2026-10-04",
+  "jobs_added": 279,
+  "jobs_removed": 1031,
+  "jobs_total": 102820,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Pinterest",
+      "jobs": 38
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 22
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 15
+    },
+    {
+      "company": "CesiumAstro",
+      "jobs": 7
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 7
+    },
+    {
+      "company": "Atlys",
+      "jobs": 6
+    },
+    {
+      "company": "FluidStack",
+      "jobs": 6
+    },
+    {
+      "company": "Everseen",
+      "jobs": 6
+    },
+    {
+      "company": "Amorana",
+      "jobs": 6
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 5
+    },
+    {
+      "company": "Skeleton Technologies",
+      "jobs": 5
+    },
+    {
+      "company": "Omnisent",
+      "jobs": 5
+    },
+    {
+      "company": "Osmo",
+      "jobs": 5
+    },
+    {
+      "company": "AI Coustics",
+      "jobs": 5
+    },
+    {
+      "company": "Datadog",
+      "jobs": 4
+    },
+    {
+      "company": "Foodics",
+      "jobs": 4
+    },
+    {
+      "company": "Stepful",
+      "jobs": 4
+    },
+    {
+      "company": "Reco",
+      "jobs": 4
+    },
+    {
+      "company": "Varda",
+      "jobs": 4
+    },
+    {
+      "company": "Fenergo",
+      "jobs": 3
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Pinterest",
+      "jobs": 30
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 28
+    },
+    {
+      "company": "Hightouch",
+      "jobs": 27
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 23
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 22
+    },
+    {
+      "company": "Atomicwork",
+      "jobs": 17
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 13
+    },
+    {
+      "company": "Toast",
+      "jobs": 13
+    },
+    {
+      "company": "Amorana",
+      "jobs": 12
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 9
+    },
+    {
+      "company": "Iterable",
+      "jobs": 8
+    },
+    {
+      "company": "Axon",
+      "jobs": 8
+    },
+    {
+      "company": "Natera",
+      "jobs": 7
+    },
+    {
+      "company": "LinkedIn",
+      "jobs": 7
+    },
+    {
+      "company": "Atlys",
+      "jobs": 7
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 7
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 6
+    },
+    {
+      "company": "Everseen",
+      "jobs": 6
+    },
+    {
+      "company": "Gusto",
+      "jobs": 6
+    },
+    {
+      "company": "Distro",
+      "jobs": 6
+    }
+  ]
+}

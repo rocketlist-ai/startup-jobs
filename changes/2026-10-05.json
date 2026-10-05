@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 109,
+  "companies_with_removed_jobs": 430,
+  "date": "2026-10-05",
+  "jobs_added": 292,
+  "jobs_removed": 794,
+  "jobs_total": 102318,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Quantinuum",
+      "jobs": 29
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 27
+    },
+    {
+      "company": "Glorious",
+      "jobs": 17
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 14
+    },
+    {
+      "company": "Amorana",
+      "jobs": 12
+    },
+    {
+      "company": "Halter",
+      "jobs": 12
+    },
+    {
+      "company": "Lokal",
+      "jobs": 11
+    },
+    {
+      "company": "ElevenLabs",
+      "jobs": 10
+    },
+    {
+      "company": "Atlys",
+      "jobs": 7
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 7
+    },
+    {
+      "company": "Everseen",
+      "jobs": 6
+    },
+    {
+      "company": "Astranis",
+      "jobs": 6
+    },
+    {
+      "company": "Reco",
+      "jobs": 5
+    },
+    {
+      "company": "Cledara",
+      "jobs": 5
+    },
+    {
+      "company": "Elastic",
+      "jobs": 4
+    },
+    {
+      "company": "Fuse Energy",
+      "jobs": 4
+    },
+    {
+      "company": "Fireblocks",
+      "jobs": 3
+    },
+    {
+      "company": "CoreWeave",
+      "jobs": 3
+    },
+    {
+      "company": "Electreon",
+      "jobs": 3
+    },
+    {
+      "company": "Nova",
+      "jobs": 3
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Pinterest",
+      "jobs": 41
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 26
+    },
+    {
+      "company": "Hightouch",
+      "jobs": 24
+    },
+    {
+      "company": "Pomelo Care",
+      "jobs": 20
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 14
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 11
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 11
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 10
+    },
+    {
+      "company": "Axon",
+      "jobs": 10
+    },
+    {
+      "company": "Atomicwork",
+      "jobs": 9
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 9
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 8
+    },
+    {
+      "company": "Amorana",
+      "jobs": 8
+    },
+    {
+      "company": "Everseen",
+      "jobs": 7
+    },
+    {
+      "company": "Atlys",
+      "jobs": 6
+    },
+    {
+      "company": "Varda",
+      "jobs": 6
+    },
+    {
+      "company": "Formlabs",
+      "jobs": 6
+    },
+    {
+      "company": "Celonis",
+      "jobs": 6
+    },
+    {
+      "company": "Reco",
+      "jobs": 6
+    },
+    {
+      "company": "Jukebox Health",
+      "jobs": 6
+    }
+  ]
+}

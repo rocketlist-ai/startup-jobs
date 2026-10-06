@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 833,
+  "companies_with_removed_jobs": 552,
+  "date": "2026-10-06",
+  "jobs_added": 2205,
+  "jobs_removed": 1030,
+  "jobs_total": 103493,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Speechify",
+      "jobs": 258
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 45
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 33
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 30
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 23
+    },
+    {
+      "company": "One Medical",
+      "jobs": 19
+    },
+    {
+      "company": "InPost",
+      "jobs": 19
+    },
+    {
+      "company": "Natera",
+      "jobs": 18
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 16
+    },
+    {
+      "company": "TensorWave",
+      "jobs": 16
+    },
+    {
+      "company": "Lessen",
+      "jobs": 16
+    },
+    {
+      "company": "Wise",
+      "jobs": 14
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 13
+    },
+    {
+      "company": "True Anomaly",
+      "jobs": 13
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 12
+    },
+    {
+      "company": "Cloudflare",
+      "jobs": 12
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 11
+    },
+    {
+      "company": "Axon",
+      "jobs": 11
+    },
+    {
+      "company": "Databricks",
+      "jobs": 11
+    },
+    {
+      "company": "Cogent Talent Solutions",
+      "jobs": 11
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Pinterest",
+      "jobs": 25
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 21
+    },
+    {
+      "company": "Pomelo Care",
+      "jobs": 17
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 14
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 13
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 10
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 10
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 9
+    },
+    {
+      "company": "STARK",
+      "jobs": 8
+    },
+    {
+      "company": "Lio (formerly askLio)",
+      "jobs": 8
+    },
+    {
+      "company": "Distro",
+      "jobs": 8
+    },
+    {
+      "company": "Feld",
+      "jobs": 7
+    },
+    {
+      "company": "Toast",
+      "jobs": 7
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 6
+    },
+    {
+      "company": "Amorana",
+      "jobs": 6
+    },
+    {
+      "company": "Wise",
+      "jobs": 5
+    },
+    {
+      "company": "Bjak",
+      "jobs": 5
+    },
+    {
+      "company": "AlphaSense, Inc.",
+      "jobs": 5
+    },
+    {
+      "company": "Everseen",
+      "jobs": 5
+    },
+    {
+      "company": "Flynn Group of Companies",
+      "jobs": 5
+    }
+  ]
+}

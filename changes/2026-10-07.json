@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 887,
+  "companies_with_removed_jobs": 768,
+  "date": "2026-10-07",
+  "jobs_added": 2225,
+  "jobs_removed": 1524,
+  "jobs_total": 104194,
+  "top_companies_adding_jobs": [
+    {
+      "company": "LifeStance Health",
+      "jobs": 58
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 44
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 42
+    },
+    {
+      "company": "Distro",
+      "jobs": 29
+    },
+    {
+      "company": "Wise",
+      "jobs": 27
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 23
+    },
+    {
+      "company": "Stripe",
+      "jobs": 21
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 21
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 21
+    },
+    {
+      "company": "HelloFresh",
+      "jobs": 17
+    },
+    {
+      "company": "Elastic",
+      "jobs": 16
+    },
+    {
+      "company": "Okta",
+      "jobs": 16
+    },
+    {
+      "company": "One Medical",
+      "jobs": 16
+    },
+    {
+      "company": "Alan",
+      "jobs": 15
+    },
+    {
+      "company": "Reco",
+      "jobs": 15
+    },
+    {
+      "company": "Agile Defense",
+      "jobs": 14
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 14
+    },
+    {
+      "company": "Fivetran",
+      "jobs": 14
+    },
+    {
+      "company": "MongoDB",
+      "jobs": 13
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 13
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "LifeStance Health",
+      "jobs": 47
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 31
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 26
+    },
+    {
+      "company": "STARK",
+      "jobs": 24
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 22
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 14
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 13
+    },
+    {
+      "company": "Wise",
+      "jobs": 12
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 11
+    },
+    {
+      "company": "Reco",
+      "jobs": 11
+    },
+    {
+      "company": "Amorana",
+      "jobs": 11
+    },
+    {
+      "company": "Alan",
+      "jobs": 10
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 10
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 9
+    },
+    {
+      "company": "Cogent Talent Solutions",
+      "jobs": 9
+    },
+    {
+      "company": "Gopuff",
+      "jobs": 9
+    },
+    {
+      "company": "Pomelo Care",
+      "jobs": 8
+    },
+    {
+      "company": "Toast",
+      "jobs": 8
+    },
+    {
+      "company": "AlphaSense, Inc.",
+      "jobs": 7
+    },
+    {
+      "company": "Datadog",
+      "jobs": 7
+    }
+  ]
+}

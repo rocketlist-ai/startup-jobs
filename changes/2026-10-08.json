@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 820,
+  "companies_with_removed_jobs": 777,
+  "date": "2026-10-08",
+  "jobs_added": 1991,
+  "jobs_removed": 1719,
+  "jobs_total": 104466,
+  "top_companies_adding_jobs": [
+    {
+      "company": "LifeStance Health",
+      "jobs": 37
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 37
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 35
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 29
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 26
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 24
+    },
+    {
+      "company": "One Medical",
+      "jobs": 24
+    },
+    {
+      "company": "Wise",
+      "jobs": 20
+    },
+    {
+      "company": "Distro",
+      "jobs": 18
+    },
+    {
+      "company": "SumUp",
+      "jobs": 18
+    },
+    {
+      "company": "Veeam Software",
+      "jobs": 18
+    },
+    {
+      "company": "Axon",
+      "jobs": 17
+    },
+    {
+      "company": "MedCare Pediatric",
+      "jobs": 17
+    },
+    {
+      "company": "Databricks",
+      "jobs": 16
+    },
+    {
+      "company": "Stripe",
+      "jobs": 16
+    },
+    {
+      "company": "HelloFresh",
+      "jobs": 14
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 13
+    },
+    {
+      "company": "Celonis",
+      "jobs": 12
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 11
+    },
+    {
+      "company": "Crusoe",
+      "jobs": 11
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "LifeStance Health",
+      "jobs": 51
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 44
+    },
+    {
+      "company": "Distro",
+      "jobs": 43
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 32
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 27
+    },
+    {
+      "company": "Cribl",
+      "jobs": 25
+    },
+    {
+      "company": "Binance",
+      "jobs": 20
+    },
+    {
+      "company": "STARK",
+      "jobs": 19
+    },
+    {
+      "company": "Toast",
+      "jobs": 16
+    },
+    {
+      "company": "Everseen",
+      "jobs": 16
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 15
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 14
+    },
+    {
+      "company": "Wise",
+      "jobs": 14
+    },
+    {
+      "company": "Datadog",
+      "jobs": 13
+    },
+    {
+      "company": "RadixArk",
+      "jobs": 11
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 11
+    },
+    {
+      "company": "Varda",
+      "jobs": 10
+    },
+    {
+      "company": "Suger",
+      "jobs": 9
+    },
+    {
+      "company": "Veeam Software",
+      "jobs": 9
+    },
+    {
+      "company": "MedCare Pediatric",
+      "jobs": 9
+    }
+  ]
+}

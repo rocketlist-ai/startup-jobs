@@ -9,9 +9,9 @@
 Live roles from funded startups around the world, normalized into one documented dataset for job seekers, researchers, developers, and AI agents.
 
 <!-- DATASET_STATS_START -->
-**104,194 active jobs · 7,196 companies · generated 2026-10-07 11:05:13 UTC**
+**104,466 active jobs · 7,196 companies · generated 2026-10-08 11:22:28 UTC**
 
-Top locations in this snapshot: AB: 1 · AE: 1 · AL: 1 · AU: 23 · AZ: 2.
+Top locations in this snapshot: AB: 1 · AE: 1 · AL: 1 · AU: 24 · AZ: 2.
 <!-- DATASET_STATS_END -->
 
 ## Download

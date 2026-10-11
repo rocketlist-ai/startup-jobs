@@ -53,3 +53,8 @@ def test_deduplicate_fails_closed():
 def test_name_key_reconciles_spacing_and_case():
     assert export_dataset.name_key("HackTheBox") == export_dataset.name_key("Hack The Box")
     assert export_dataset.name_key("Rad AI") == export_dataset.name_key("Radai")
+
+
+def test_clean_text_treats_unicode_whitespace_as_missing_and_normalizes_it():
+    assert export_dataset.clean_text("\u00a0\u2003\n\t") is None
+    assert export_dataset.clean_text("  Senior\u00a0\u2003Engineer\n") == "Senior Engineer"

@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 664,
+  "companies_with_removed_jobs": 720,
+  "date": "2026-10-13",
+  "jobs_added": 1653,
+  "jobs_removed": 1470,
+  "jobs_total": 104683,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Pinterest",
+      "jobs": 47
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 31
+    },
+    {
+      "company": "Nox Metals",
+      "jobs": 28
+    },
+    {
+      "company": "Bjak",
+      "jobs": 26
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 24
+    },
+    {
+      "company": "Wise",
+      "jobs": 23
+    },
+    {
+      "company": "One Medical",
+      "jobs": 22
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 20
+    },
+    {
+      "company": "Kunin",
+      "jobs": 19
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 18
+    },
+    {
+      "company": "Databricks",
+      "jobs": 17
+    },
+    {
+      "company": "Distro",
+      "jobs": 14
+    },
+    {
+      "company": "PayJoy",
+      "jobs": 13
+    },
+    {
+      "company": "Nebius",
+      "jobs": 13
+    },
+    {
+      "company": "Cloudflare",
+      "jobs": 12
+    },
+    {
+      "company": "Okta",
+      "jobs": 12
+    },
+    {
+      "company": "Traba",
+      "jobs": 12
+    },
+    {
+      "company": "InPost",
+      "jobs": 11
+    },
+    {
+      "company": "MongoDB",
+      "jobs": 11
+    },
+    {
+      "company": "Doctolib",
+      "jobs": 11
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Pinterest",
+      "jobs": 29
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 27
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 25
+    },
+    {
+      "company": "Fresha",
+      "jobs": 22
+    },
+    {
+      "company": "Binance",
+      "jobs": 18
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 15
+    },
+    {
+      "company": "Bjak",
+      "jobs": 14
+    },
+    {
+      "company": "Wise",
+      "jobs": 14
+    },
+    {
+      "company": "Veeam Software",
+      "jobs": 14
+    },
+    {
+      "company": "STARK",
+      "jobs": 14
+    },
+    {
+      "company": "Distro",
+      "jobs": 13
+    },
+    {
+      "company": "Okta",
+      "jobs": 12
+    },
+    {
+      "company": "Coins.ph",
+      "jobs": 12
+    },
+    {
+      "company": "Varda",
+      "jobs": 11
+    },
+    {
+      "company": "Harbinger Motors",
+      "jobs": 10
+    },
+    {
+      "company": "Everseen",
+      "jobs": 10
+    },
+    {
+      "company": "Adyen",
+      "jobs": 9
+    },
+    {
+      "company": "Celonis",
+      "jobs": 9
+    },
+    {
+      "company": "ElevenLabs",
+      "jobs": 9
+    },
+    {
+      "company": "Cribl",
+      "jobs": 9
+    }
+  ]
+}

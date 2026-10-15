@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 842,
+  "companies_with_removed_jobs": 719,
+  "date": "2026-10-15",
+  "jobs_added": 2043,
+  "jobs_removed": 1608,
+  "jobs_total": 106015,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 63
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 34
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 26
+    },
+    {
+      "company": "Wise",
+      "jobs": 22
+    },
+    {
+      "company": "Natera",
+      "jobs": 20
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 18
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 16
+    },
+    {
+      "company": "Exponent Energy",
+      "jobs": 16
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 16
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 16
+    },
+    {
+      "company": "MongoDB",
+      "jobs": 15
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 13
+    },
+    {
+      "company": "Nebius",
+      "jobs": 13
+    },
+    {
+      "company": "HelloFresh",
+      "jobs": 13
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 12
+    },
+    {
+      "company": "Toast",
+      "jobs": 12
+    },
+    {
+      "company": "Saronic",
+      "jobs": 12
+    },
+    {
+      "company": "MedCare Pediatric",
+      "jobs": 12
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 11
+    },
+    {
+      "company": "Hims &amp; Hers",
+      "jobs": 11
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Wayve",
+      "jobs": 107
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 35
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 25
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 25
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 19
+    },
+    {
+      "company": "Fresha",
+      "jobs": 16
+    },
+    {
+      "company": "Veeam Software",
+      "jobs": 15
+    },
+    {
+      "company": "PayJoy",
+      "jobs": 14
+    },
+    {
+      "company": "LPA, Inc.",
+      "jobs": 13
+    },
+    {
+      "company": "Wise",
+      "jobs": 13
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 12
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 11
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 11
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 11
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 11
+    },
+    {
+      "company": "Datadog",
+      "jobs": 10
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 10
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 10
+    },
+    {
+      "company": "Distro",
+      "jobs": 10
+    },
+    {
+      "company": "Amorana",
+      "jobs": 9
+    }
+  ]
+}

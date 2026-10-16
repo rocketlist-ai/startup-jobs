@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 793,
+  "companies_with_removed_jobs": 757,
+  "date": "2026-10-16",
+  "jobs_added": 2011,
+  "jobs_removed": 1524,
+  "jobs_total": 106502,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 46
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 38
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 31
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 29
+    },
+    {
+      "company": "Wise",
+      "jobs": 28
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 26
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 23
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 23
+    },
+    {
+      "company": "Okta",
+      "jobs": 20
+    },
+    {
+      "company": "One Medical",
+      "jobs": 20
+    },
+    {
+      "company": "AlphaSense, Inc.",
+      "jobs": 16
+    },
+    {
+      "company": "InPost",
+      "jobs": 15
+    },
+    {
+      "company": "Databricks",
+      "jobs": 13
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 13
+    },
+    {
+      "company": "Tether",
+      "jobs": 13
+    },
+    {
+      "company": "CesiumAstro",
+      "jobs": 13
+    },
+    {
+      "company": "Justworks",
+      "jobs": 12
+    },
+    {
+      "company": "OpenGov",
+      "jobs": 12
+    },
+    {
+      "company": "Melotech",
+      "jobs": 12
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 11
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Pinterest",
+      "jobs": 28
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 25
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 24
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 21
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 19
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 19
+    },
+    {
+      "company": "Axon",
+      "jobs": 18
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 16
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 14
+    },
+    {
+      "company": "Okta",
+      "jobs": 13
+    },
+    {
+      "company": "Wise",
+      "jobs": 13
+    },
+    {
+      "company": "Amorana",
+      "jobs": 12
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 12
+    },
+    {
+      "company": "Wayve",
+      "jobs": 12
+    },
+    {
+      "company": "Veeam Software",
+      "jobs": 10
+    },
+    {
+      "company": "Wolt",
+      "jobs": 10
+    },
+    {
+      "company": "Omnisent",
+      "jobs": 9
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 9
+    },
+    {
+      "company": "Insider One",
+      "jobs": 8
+    },
+    {
+      "company": "Distro",
+      "jobs": 8
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 736,
+  "companies_with_removed_jobs": 682,
+  "date": "2026-10-17",
+  "jobs_added": 1816,
+  "jobs_removed": 1362,
+  "jobs_total": 106956,
+  "top_companies_adding_jobs": [
+    {
+      "company": "SpaceX",
+      "jobs": 49
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 46
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 26
+    },
+    {
+      "company": "Wise",
+      "jobs": 24
+    },
+    {
+      "company": "Distro",
+      "jobs": 22
+    },
+    {
+      "company": "Okta",
+      "jobs": 22
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 19
+    },
+    {
+      "company": "Adyen",
+      "jobs": 16
+    },
+    {
+      "company": "GitLab",
+      "jobs": 16
+    },
+    {
+      "company": "Nebius",
+      "jobs": 16
+    },
+    {
+      "company": "Caliza",
+      "jobs": 15
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 14
+    },
+    {
+      "company": "Stripe",
+      "jobs": 14
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 14
+    },
+    {
+      "company": "Rubrik",
+      "jobs": 13
+    },
+    {
+      "company": "Toast",
+      "jobs": 13
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 13
+    },
+    {
+      "company": "Airbnb",
+      "jobs": 12
+    },
+    {
+      "company": "One Medical",
+      "jobs": 12
+    },
+    {
+      "company": "Octopus Energy",
+      "jobs": 12
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 42
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 33
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 24
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 16
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 14
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 14
+    },
+    {
+      "company": "Axon",
+      "jobs": 13
+    },
+    {
+      "company": "Wise",
+      "jobs": 13
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 12
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 11
+    },
+    {
+      "company": "Distro",
+      "jobs": 11
+    },
+    {
+      "company": "Toast",
+      "jobs": 10
+    },
+    {
+      "company": "Justworks",
+      "jobs": 10
+    },
+    {
+      "company": "Webflow",
+      "jobs": 10
+    },
+    {
+      "company": "Okta",
+      "jobs": 9
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 8
+    },
+    {
+      "company": "Sprinter Health",
+      "jobs": 8
+    },
+    {
+      "company": "Cloudflare",
+      "jobs": 8
+    },
+    {
+      "company": "Kaseya",
+      "jobs": 8
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 8
+    }
+  ]
+}

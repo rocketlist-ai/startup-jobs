@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 99,
+  "companies_with_removed_jobs": 497,
+  "date": "2026-10-18",
+  "jobs_added": 281,
+  "jobs_removed": 916,
+  "jobs_total": 106321,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Praxisprecisionmedicines",
+      "jobs": 44
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 23
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 18
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 13
+    },
+    {
+      "company": "Intellect",
+      "jobs": 13
+    },
+    {
+      "company": "Exponent Energy",
+      "jobs": 8
+    },
+    {
+      "company": "Amorana",
+      "jobs": 7
+    },
+    {
+      "company": "Pulse",
+      "jobs": 6
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 6
+    },
+    {
+      "company": "Lyft",
+      "jobs": 6
+    },
+    {
+      "company": "Finni Health",
+      "jobs": 5
+    },
+    {
+      "company": "Okta",
+      "jobs": 4
+    },
+    {
+      "company": "Ordio",
+      "jobs": 4
+    },
+    {
+      "company": "Everseen",
+      "jobs": 4
+    },
+    {
+      "company": "Higgsfield",
+      "jobs": 4
+    },
+    {
+      "company": "Hellomed",
+      "jobs": 4
+    },
+    {
+      "company": "Wing Assistant",
+      "jobs": 3
+    },
+    {
+      "company": "Momentic",
+      "jobs": 3
+    },
+    {
+      "company": "Tailscale",
+      "jobs": 3
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 3
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Pinterest",
+      "jobs": 35
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 25
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 20
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 15
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 15
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 12
+    },
+    {
+      "company": "Axon",
+      "jobs": 12
+    },
+    {
+      "company": "Okta",
+      "jobs": 10
+    },
+    {
+      "company": "Everseen",
+      "jobs": 10
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 9
+    },
+    {
+      "company": "Datadog",
+      "jobs": 9
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 9
+    },
+    {
+      "company": "Webflow",
+      "jobs": 8
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 8
+    },
+    {
+      "company": "EyeTell, Inc.",
+      "jobs": 8
+    },
+    {
+      "company": "Resident Home LLC",
+      "jobs": 8
+    },
+    {
+      "company": "Extreme Networks",
+      "jobs": 7
+    },
+    {
+      "company": "Distro",
+      "jobs": 6
+    },
+    {
+      "company": "Dropbox",
+      "jobs": 6
+    },
+    {
+      "company": "Fireblocks",
+      "jobs": 6
+    }
+  ]
+}

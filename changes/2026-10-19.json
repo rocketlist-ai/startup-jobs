@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 124,
+  "companies_with_removed_jobs": 160,
+  "date": "2026-10-19",
+  "jobs_added": 1058,
+  "jobs_removed": 241,
+  "jobs_total": 107138,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Sila",
+      "jobs": 215
+    },
+    {
+      "company": "Lumilens",
+      "jobs": 161
+    },
+    {
+      "company": "Headway",
+      "jobs": 88
+    },
+    {
+      "company": "Thyme Care",
+      "jobs": 49
+    },
+    {
+      "company": "Wizeline",
+      "jobs": 39
+    },
+    {
+      "company": "Standard Bots",
+      "jobs": 39
+    },
+    {
+      "company": "HOLY",
+      "jobs": 32
+    },
+    {
+      "company": "Restaurant365",
+      "jobs": 30
+    },
+    {
+      "company": "Armadin",
+      "jobs": 26
+    },
+    {
+      "company": "Vestwell",
+      "jobs": 25
+    },
+    {
+      "company": "Airbound",
+      "jobs": 24
+    },
+    {
+      "company": "Pallet",
+      "jobs": 22
+    },
+    {
+      "company": "TypeSafe AI",
+      "jobs": 15
+    },
+    {
+      "company": "Genius AI",
+      "jobs": 14
+    },
+    {
+      "company": "Merge",
+      "jobs": 14
+    },
+    {
+      "company": "Manifest OS",
+      "jobs": 13
+    },
+    {
+      "company": "SecurityScorecard",
+      "jobs": 12
+    },
+    {
+      "company": "MYNE Homes",
+      "jobs": 11
+    },
+    {
+      "company": "Ottonova",
+      "jobs": 9
+    },
+    {
+      "company": "SE3 Labs",
+      "jobs": 9
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Praxisprecisionmedicines",
+      "jobs": 30
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 9
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 8
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 5
+    },
+    {
+      "company": "Amorana",
+      "jobs": 3
+    },
+    {
+      "company": "MILES Mobility",
+      "jobs": 3
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 3
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 3
+    },
+    {
+      "company": "Crusoe",
+      "jobs": 3
+    },
+    {
+      "company": "Extreme Networks",
+      "jobs": 3
+    },
+    {
+      "company": "Nawy",
+      "jobs": 3
+    },
+    {
+      "company": "Cloudflare",
+      "jobs": 3
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 3
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 3
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 3
+    },
+    {
+      "company": "Perchwell",
+      "jobs": 2
+    },
+    {
+      "company": "Avante",
+      "jobs": 2
+    },
+    {
+      "company": "Webflow",
+      "jobs": 2
+    },
+    {
+      "company": "Westwing",
+      "jobs": 2
+    },
+    {
+      "company": "ElevenLabs",
+      "jobs": 2
+    }
+  ]
+}

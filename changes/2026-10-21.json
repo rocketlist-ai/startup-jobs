@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 793,
+  "companies_with_removed_jobs": 736,
+  "date": "2026-10-21",
+  "jobs_added": 2245,
+  "jobs_removed": 1521,
+  "jobs_total": 109078,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Speechify",
+      "jobs": 246
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 56
+    },
+    {
+      "company": "Guidepost Montessori",
+      "jobs": 34
+    },
+    {
+      "company": "Graphcore",
+      "jobs": 34
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 29
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 28
+    },
+    {
+      "company": "Wise",
+      "jobs": 27
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 25
+    },
+    {
+      "company": "One Medical",
+      "jobs": 18
+    },
+    {
+      "company": "Modern Animal",
+      "jobs": 15
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 15
+    },
+    {
+      "company": "Natera",
+      "jobs": 13
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 13
+    },
+    {
+      "company": "Distro",
+      "jobs": 13
+    },
+    {
+      "company": "Verkada",
+      "jobs": 13
+    },
+    {
+      "company": "Okta",
+      "jobs": 12
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 12
+    },
+    {
+      "company": "Phoenix Tailings",
+      "jobs": 12
+    },
+    {
+      "company": "Jerry.ai",
+      "jobs": 12
+    },
+    {
+      "company": "Stripe",
+      "jobs": 11
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 38
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 34
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 32
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 25
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 18
+    },
+    {
+      "company": "Guidepost Montessori",
+      "jobs": 16
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 16
+    },
+    {
+      "company": "Distro",
+      "jobs": 15
+    },
+    {
+      "company": "Wise",
+      "jobs": 15
+    },
+    {
+      "company": "Axon",
+      "jobs": 12
+    },
+    {
+      "company": "Crusoe",
+      "jobs": 11
+    },
+    {
+      "company": "Dialpad",
+      "jobs": 11
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 11
+    },
+    {
+      "company": "SumUp",
+      "jobs": 10
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 10
+    },
+    {
+      "company": "Waymo",
+      "jobs": 9
+    },
+    {
+      "company": "Toast",
+      "jobs": 9
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 9
+    },
+    {
+      "company": "Extreme Networks",
+      "jobs": 9
+    },
+    {
+      "company": "Backpack Healthcare",
+      "jobs": 9
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 763,
+  "companies_with_removed_jobs": 700,
+  "date": "2026-10-22",
+  "jobs_added": 1878,
+  "jobs_removed": 1372,
+  "jobs_total": 109584,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 40
+    },
+    {
+      "company": "Guidepost Montessori",
+      "jobs": 39
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 31
+    },
+    {
+      "company": "One Medical",
+      "jobs": 31
+    },
+    {
+      "company": "Wise",
+      "jobs": 30
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 30
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 26
+    },
+    {
+      "company": "Elastic",
+      "jobs": 21
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 16
+    },
+    {
+      "company": "Airbnb",
+      "jobs": 15
+    },
+    {
+      "company": "Axon",
+      "jobs": 15
+    },
+    {
+      "company": "SumUp",
+      "jobs": 14
+    },
+    {
+      "company": "Grafana Labs",
+      "jobs": 11
+    },
+    {
+      "company": "Okta",
+      "jobs": 11
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 11
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 11
+    },
+    {
+      "company": "Toast",
+      "jobs": 11
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 11
+    },
+    {
+      "company": "Bjak",
+      "jobs": 11
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 10
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 40
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 34
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 24
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 23
+    },
+    {
+      "company": "Guidepost Montessori",
+      "jobs": 21
+    },
+    {
+      "company": "Wise",
+      "jobs": 14
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 13
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 12
+    },
+    {
+      "company": "Distro",
+      "jobs": 12
+    },
+    {
+      "company": "Amorana",
+      "jobs": 11
+    },
+    {
+      "company": "Okta",
+      "jobs": 10
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 9
+    },
+    {
+      "company": "AILY LABS",
+      "jobs": 9
+    },
+    {
+      "company": "Toast",
+      "jobs": 8
+    },
+    {
+      "company": "OpenGov",
+      "jobs": 8
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 8
+    },
+    {
+      "company": "AlphaSense, Inc.",
+      "jobs": 8
+    },
+    {
+      "company": "Ripple",
+      "jobs": 7
+    },
+    {
+      "company": "Snowflake",
+      "jobs": 7
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 7
+    }
+  ]
+}

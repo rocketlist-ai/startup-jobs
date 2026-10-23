@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 779,
+  "companies_with_removed_jobs": 967,
+  "date": "2026-10-23",
+  "jobs_added": 1991,
+  "jobs_removed": 2146,
+  "jobs_total": 109429,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 47
+    },
+    {
+      "company": "Guidepost Montessori",
+      "jobs": 41
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 33
+    },
+    {
+      "company": "Sierra",
+      "jobs": 28
+    },
+    {
+      "company": "Wise",
+      "jobs": 26
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 25
+    },
+    {
+      "company": "Agile Defense",
+      "jobs": 25
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 19
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 19
+    },
+    {
+      "company": "Toast",
+      "jobs": 18
+    },
+    {
+      "company": "Elastic",
+      "jobs": 16
+    },
+    {
+      "company": "One Medical",
+      "jobs": 16
+    },
+    {
+      "company": "Canals",
+      "jobs": 15
+    },
+    {
+      "company": "Axon",
+      "jobs": 13
+    },
+    {
+      "company": "Stripe",
+      "jobs": 13
+    },
+    {
+      "company": "Distro",
+      "jobs": 12
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 12
+    },
+    {
+      "company": "Assembly",
+      "jobs": 12
+    },
+    {
+      "company": "Databricks",
+      "jobs": 11
+    },
+    {
+      "company": "HelloFresh",
+      "jobs": 11
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 54
+    },
+    {
+      "company": "Guidepost Montessori",
+      "jobs": 47
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 27
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 25
+    },
+    {
+      "company": "Toast",
+      "jobs": 20
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 20
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 20
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 16
+    },
+    {
+      "company": "Axon",
+      "jobs": 15
+    },
+    {
+      "company": "SumUp",
+      "jobs": 13
+    },
+    {
+      "company": "Okta",
+      "jobs": 13
+    },
+    {
+      "company": "MongoDB",
+      "jobs": 13
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 12
+    },
+    {
+      "company": "Wise",
+      "jobs": 12
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 12
+    },
+    {
+      "company": "Adyen",
+      "jobs": 11
+    },
+    {
+      "company": "Waymo",
+      "jobs": 11
+    },
+    {
+      "company": "Datadog",
+      "jobs": 11
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 11
+    },
+    {
+      "company": "eClear",
+      "jobs": 10
+    }
+  ]
+}

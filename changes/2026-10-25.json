@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 783,
+  "companies_with_removed_jobs": 1060,
+  "date": "2026-10-25",
+  "jobs_added": 1981,
+  "jobs_removed": 2807,
+  "jobs_total": 108603,
+  "top_companies_adding_jobs": [
+    {
+      "company": "One Medical",
+      "jobs": 56
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 52
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 35
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 32
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 27
+    },
+    {
+      "company": "Distro",
+      "jobs": 22
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 16
+    },
+    {
+      "company": "Wise",
+      "jobs": 16
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 16
+    },
+    {
+      "company": "Horizon3.ai",
+      "jobs": 15
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 14
+    },
+    {
+      "company": "Varda",
+      "jobs": 14
+    },
+    {
+      "company": "Spotify",
+      "jobs": 14
+    },
+    {
+      "company": "Grafana Labs",
+      "jobs": 13
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 13
+    },
+    {
+      "company": "Jerry.ai",
+      "jobs": 13
+    },
+    {
+      "company": "Elastic",
+      "jobs": 12
+    },
+    {
+      "company": "GitLab",
+      "jobs": 11
+    },
+    {
+      "company": "Veeam Software",
+      "jobs": 11
+    },
+    {
+      "company": "Adyen",
+      "jobs": 11
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Anduril Industries",
+      "jobs": 91
+    },
+    {
+      "company": "Giga Energy",
+      "jobs": 36
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 34
+    },
+    {
+      "company": "Distro",
+      "jobs": 33
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 32
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 31
+    },
+    {
+      "company": "Qonto",
+      "jobs": 29
+    },
+    {
+      "company": "Guidepost Montessori",
+      "jobs": 28
+    },
+    {
+      "company": "Axon",
+      "jobs": 28
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 27
+    },
+    {
+      "company": "Rocket Lab",
+      "jobs": 23
+    },
+    {
+      "company": "Anthropic",
+      "jobs": 23
+    },
+    {
+      "company": "Okta",
+      "jobs": 21
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 19
+    },
+    {
+      "company": "Formlabs",
+      "jobs": 18
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 18
+    },
+    {
+      "company": "Toast",
+      "jobs": 18
+    },
+    {
+      "company": "Veeam Software",
+      "jobs": 17
+    },
+    {
+      "company": "Airbnb",
+      "jobs": 16
+    },
+    {
+      "company": "Shield AI",
+      "jobs": 16
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 128,
+  "companies_with_removed_jobs": 196,
+  "date": "2026-10-26",
+  "jobs_added": 661,
+  "jobs_removed": 340,
+  "jobs_total": 108924,
+  "top_companies_adding_jobs": [
+    {
+      "company": "Nord Security",
+      "jobs": 135
+    },
+    {
+      "company": "REGENT",
+      "jobs": 43
+    },
+    {
+      "company": "Latitude",
+      "jobs": 34
+    },
+    {
+      "company": "Aaru",
+      "jobs": 32
+    },
+    {
+      "company": "AIM",
+      "jobs": 29
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 26
+    },
+    {
+      "company": "Flip",
+      "jobs": 24
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 21
+    },
+    {
+      "company": "Quantum Diamonds",
+      "jobs": 18
+    },
+    {
+      "company": "Plenful",
+      "jobs": 17
+    },
+    {
+      "company": "Altos Labs",
+      "jobs": 15
+    },
+    {
+      "company": "Firstwork",
+      "jobs": 13
+    },
+    {
+      "company": "Allego",
+      "jobs": 13
+    },
+    {
+      "company": "Westmag",
+      "jobs": 12
+    },
+    {
+      "company": "Nuance Labs",
+      "jobs": 10
+    },
+    {
+      "company": "Amorana",
+      "jobs": 9
+    },
+    {
+      "company": "Adonis",
+      "jobs": 9
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 7
+    },
+    {
+      "company": "Monday.com",
+      "jobs": 7
+    },
+    {
+      "company": "MicroAGI",
+      "jobs": 7
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Pinterest",
+      "jobs": 43
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 20
+    },
+    {
+      "company": "Giga Energy",
+      "jobs": 9
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 7
+    },
+    {
+      "company": "Everseen",
+      "jobs": 7
+    },
+    {
+      "company": "One Medical",
+      "jobs": 6
+    },
+    {
+      "company": "Fireblocks",
+      "jobs": 6
+    },
+    {
+      "company": "Atlys",
+      "jobs": 5
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 5
+    },
+    {
+      "company": "Amorana",
+      "jobs": 5
+    },
+    {
+      "company": "Varda",
+      "jobs": 5
+    },
+    {
+      "company": "Pindrop Security",
+      "jobs": 4
+    },
+    {
+      "company": "Build",
+      "jobs": 4
+    },
+    {
+      "company": "Airwallex",
+      "jobs": 3
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 3
+    },
+    {
+      "company": "Qonto",
+      "jobs": 3
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 3
+    },
+    {
+      "company": "Docker",
+      "jobs": 3
+    },
+    {
+      "company": "CSC Generation",
+      "jobs": 2
+    },
+    {
+      "company": "Viktor",
+      "jobs": 2
+    }
+  ]
+}

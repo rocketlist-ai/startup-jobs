@@ -1,0 +1,173 @@
+{
+  "baseline": false,
+  "companies_with_added_jobs": 778,
+  "companies_with_removed_jobs": 503,
+  "date": "2026-10-27",
+  "jobs_added": 1952,
+  "jobs_removed": 1181,
+  "jobs_total": 109695,
+  "top_companies_adding_jobs": [
+    {
+      "company": "One Medical",
+      "jobs": 95
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 35
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 31
+    },
+    {
+      "company": "Samsara",
+      "jobs": 31
+    },
+    {
+      "company": "LifeStance Health",
+      "jobs": 30
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 29
+    },
+    {
+      "company": "Distro",
+      "jobs": 24
+    },
+    {
+      "company": "CI&amp;T",
+      "jobs": 16
+    },
+    {
+      "company": "Traba",
+      "jobs": 15
+    },
+    {
+      "company": "Toast",
+      "jobs": 15
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 14
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 14
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 14
+    },
+    {
+      "company": "Valar Atomics",
+      "jobs": 13
+    },
+    {
+      "company": "Kong Inc.",
+      "jobs": 12
+    },
+    {
+      "company": "eClear",
+      "jobs": 12
+    },
+    {
+      "company": "1KOMMA5\u00b0",
+      "jobs": 12
+    },
+    {
+      "company": "Cloudflare",
+      "jobs": 12
+    },
+    {
+      "company": "Lila Sciences",
+      "jobs": 12
+    },
+    {
+      "company": "ComparaJ\u00e1.pt",
+      "jobs": 12
+    }
+  ],
+  "top_companies_removing_jobs": [
+    {
+      "company": "Checkout.com",
+      "jobs": 120
+    },
+    {
+      "company": "Jerry.ai",
+      "jobs": 85
+    },
+    {
+      "company": "Kraken",
+      "jobs": 56
+    },
+    {
+      "company": "Heidi",
+      "jobs": 56
+    },
+    {
+      "company": "Monday.com",
+      "jobs": 32
+    },
+    {
+      "company": "Pinterest",
+      "jobs": 22
+    },
+    {
+      "company": "Anduril Industries",
+      "jobs": 15
+    },
+    {
+      "company": "Quantinuum",
+      "jobs": 14
+    },
+    {
+      "company": "Distro",
+      "jobs": 10
+    },
+    {
+      "company": "OpenAI",
+      "jobs": 9
+    },
+    {
+      "company": "SpaceX",
+      "jobs": 9
+    },
+    {
+      "company": "Daniels Health",
+      "jobs": 8
+    },
+    {
+      "company": "Whoop",
+      "jobs": 7
+    },
+    {
+      "company": "Giga Energy",
+      "jobs": 6
+    },
+    {
+      "company": "ElevenLabs",
+      "jobs": 6
+    },
+    {
+      "company": "SongPush",
+      "jobs": 6
+    },
+    {
+      "company": "Blank Street",
+      "jobs": 5
+    },
+    {
+      "company": "Wing Security",
+      "jobs": 5
+    },
+    {
+      "company": "Sema4.ai",
+      "jobs": 5
+    },
+    {
+      "company": "Amorana",
+      "jobs": 5
+    }
+  ]
+}

@@ -9,9 +9,9 @@
 Live roles from funded startups around the world, normalized into one documented dataset for job seekers, researchers, developers, and AI agents.
 
 <!-- DATASET_STATS_START -->
-**108,924 active jobs · 7,297 companies · generated 2026-10-26 10:08:11 UTC**
+**109,695 active jobs · 7,297 companies · generated 2026-10-27 09:49:00 UTC**
 
-Top locations in this snapshot: Albania: 5 · Algeria: 8 · Argentina: 188 · Asia: 1 · Australia: 916.
+Top locations in this snapshot: Albania: 5 · Algeria: 8 · Argentina: 193 · Australia: 899 · Austria: 131.
 <!-- DATASET_STATS_END -->
 
 ## Download
